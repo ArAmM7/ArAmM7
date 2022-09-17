@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://giphy.com/embed/Vbtc9VG51NtzT1Qnv1.gif)
+![](https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif)
 
 <!--
 **ArAmM7/ArAmM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
