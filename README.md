@@ -4,7 +4,7 @@
 
 [source for the gif](https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArAm&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArAmM7&layout=compact)]
 
 ![](https://komarev.com/ghpvc/?username=ArAmM7)
 
