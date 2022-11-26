@@ -5,6 +5,8 @@
 
 ![](https://komarev.com/ghpvc/?username=ArAmM7)
 
+![](https://github-readme-stats.vercel.app/api?username=aramm7&show_icons=true&count_private=true)
+
 <!--
 **ArAmM7/ArAmM7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
